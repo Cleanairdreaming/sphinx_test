@@ -117,7 +117,7 @@ def my_function(my_arg, my_other_arg):
 
 第10章 Images
 =====================
-.. image:: image/moves.*
+.. image:: ./image/moves.*
 
 =================
 Section 2
@@ -141,6 +141,6 @@ Lorem ipsum [ref]_ dolor sit amet.
 The |biohazard| symbol |name| must be used on containers used to
 dispose of medical waste.
 
-.. |biohazard| image:: image/warning.*
+.. |biohazard| image:: ./image/warning.*
 .. |name| replace:: *replacement text*
             
