@@ -141,6 +141,6 @@ Lorem ipsum [ref]_ dolor sit amet.
 The |biohazard| symbol |name| must be used on containers used to
 dispose of medical waste.
 
-.. |biohazard| image:: image/warning.*
+.. |biohazard| image:: image/warning.png
 .. |name| replace:: *replacement text*
             
